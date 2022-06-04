@@ -4,16 +4,13 @@
 
 ## Overview
 
-{Provide a description the software that you wrote.}
-
-{Describe your purpose for writing this software.}
+The purpose for the coding practice is to prepare for coding interviews. The software I made for practice is linked below. The software shows my knowledge of different coding topics. 
 
 ### Coding Practice
 
-
 * [Find min and max sums](https://github.com/samanthastaheli/samanthastaheliportfolio/blob/master/CodePractice/minMaxSum.py)
-* [Find sub sequence]()
-* [Sum of two numbers]()
+* [Find sub sequence](https://github.com/samanthastaheli/samanthastaheliportfolio/blob/master/CodePractice/find_sub.py)
+* [Sum of two numbers](https://github.com/samanthastaheli/samanthastaheliportfolio/blob/master/CodePractice/num_sum.py)
 * [Secret code with threading](https://github.com/samanthastaheli/samanthastaheliportfolio/blob/master/CodePractice/secret_code_threading.py)
 * [Secret code without threading](https://github.com/samanthastaheli/samanthastaheliportfolio/blob/master/CodePractice/secret_code.py)
 
@@ -21,14 +18,12 @@
 
 ## Development Environment
 
-{Describe the tools that you used to develop the software}
+The software is written in python. The IDE used is Visual Studio Code. 
 
-{Describe the programming language that you used and any libraries.}
-
+The software using threading uses the python library threading. 
 
 ## Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Algo Expert](https://www.algoexpert.io/product?r=ads&gclid=Cj0KCQjwlvT8BRDeARIsAACRFiWItOt_iox6igmj8zIHUfwTQX1fiABbvA5wVKojAV8az89jl0zpXQ8aApOwEALw_wcB)
 * [LeetCode](https://leetcode.com/problemset/all/)
 * [Hacker Rank](https://www.hackerrank.com/)
@@ -44,3 +39,4 @@
 * LinkedIn Skill assesments:
     * object oriented programming
     * agile methodologies
+* Fix bugs in secret code with threading software
