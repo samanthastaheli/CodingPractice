@@ -14,7 +14,7 @@ The purpose for the coding practice is to prepare for coding interviews. The sof
 * [Secret code with threading](https://github.com/samanthastaheli/samanthastaheliportfolio/blob/master/CodePractice/secret_code_threading.py)
 * [Secret code without threading](https://github.com/samanthastaheli/samanthastaheliportfolio/blob/master/CodePractice/secret_code.py)
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/LNxZ_MqDqo8)
 
 ## Development Environment
 
