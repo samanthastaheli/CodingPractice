@@ -1,5 +1,7 @@
 # Samantha Staheli's Portfolio
 
+[My Portfolio Website](https://samanthastaheli.github.io/samanthastaheliportfolio/website/index.html)
+
 ## Overview
 
 {Provide a description the software that you wrote.}
@@ -34,8 +36,15 @@
 
 ## Future Work
 
+<<<<<<< HEAD
 * Finish Try Hack Me beginner course.
 * Finish portfolio website
 * LinkedIn Skill assesments:
     * object oriented programming
     * agile methodologies
+=======
+{Make a list of things that you need to fix, improve, and add in the future.}
+* Item 1
+* Item 2
+* Item 3
+>>>>>>> 66c54ae8d90c025e33ac704f05a81b4b1424f0ee
