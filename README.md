@@ -10,9 +10,12 @@
 
 ### Coding Practice
 
-* [precison handing]()
-* [precison handing]()
-* [precison handing]()
+
+* [Find min and max sums](https://github.com/samanthastaheli/samanthastaheliportfolio/blob/master/CodePractice/minMaxSum.py)
+* [Find sub sequence]()
+* [Sum of two numbers]()
+* [Secret code with threading](https://github.com/samanthastaheli/samanthastaheliportfolio/blob/master/CodePractice/secret_code_threading.py)
+* [Secret code without threading](https://github.com/samanthastaheli/samanthastaheliportfolio/blob/master/CodePractice/secret_code.py)
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -36,15 +39,8 @@
 
 ## Future Work
 
-<<<<<<< HEAD
 * Finish Try Hack Me beginner course.
 * Finish portfolio website
 * LinkedIn Skill assesments:
     * object oriented programming
     * agile methodologies
-=======
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
->>>>>>> 66c54ae8d90c025e33ac704f05a81b4b1424f0ee
