@@ -6,7 +6,11 @@
 
 {Describe your purpose for writing this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
+### Coding Practice
+
+* [precison handing]()
+* [precison handing]()
+* [precison handing]()
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -16,18 +20,22 @@
 
 {Describe the programming language that you used and any libraries.}
 
+
 ## Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Algo Expert](http://url.link.goes.here)
-* [LeetCode](http://url.link.goes.here)
-* [Hacker Rank](http://url.link.goes.here)
-* [Try Hack Me](http://url.link.goes.here)
-* [LinkedIn Learning](http://url.link.goes.here)
+* [Algo Expert](https://www.algoexpert.io/product?r=ads&gclid=Cj0KCQjwlvT8BRDeARIsAACRFiWItOt_iox6igmj8zIHUfwTQX1fiABbvA5wVKojAV8az89jl0zpXQ8aApOwEALw_wcB)
+* [LeetCode](https://leetcode.com/problemset/all/)
+* [Hacker Rank](https://www.hackerrank.com/)
+* [Try Hack Me](https://tryhackme.com/)
+* [LinkedIn Learning](https://www.linkedin.com/learning/?u=2153100)
+* [10 Essential Topics You can Prepare to Crack Coding and Programming Job interviews in 2022](https://medium.com/javarevisited/10-essential-topics-and-resources-for-coding-and-programm-job-interviews-4017cac3a522)
+* [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 
 ## Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Finish Try Hack Me beginner course.
+* Finish portfolio website
+* LinkedIn Skill assesments:
+    * object oriented programming
+    * agile methodologies
