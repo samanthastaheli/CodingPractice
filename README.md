@@ -32,6 +32,8 @@ The software using threading uses the python library threading.
 * [10 Essential Topics You can Prepare to Crack Coding and Programming Job interviews in 2022](https://medium.com/javarevisited/10-essential-topics-and-resources-for-coding-and-programm-job-interviews-4017cac3a522)
 * [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 
+* [CSS Shapes](https://css-tricks.com/the-shapes-of-css/)
+
 ## Future Work
 
 * Finish Try Hack Me beginner course.
